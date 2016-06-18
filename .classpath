@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/YOU/수업/소프트웨어공학론/팀프로젝트/5월버전/lib/bcmail-jdk16-1.46.jar"/>
+	<classpathentry kind="lib" path="D:/YOU/수업/소프트웨어공학론/팀프로젝트/5월버전/lib/bcprov-jdk15on-154.jar"/>
+	<classpathentry kind="lib" path="D:/YOU/수업/소프트웨어공학론/팀프로젝트/5월버전/lib/bcprov-jdk16-1.46.jar"/>
+	<classpathentry kind="lib" path="D:/YOU/수업/소프트웨어공학론/팀프로젝트/5월버전/lib/itextpdf-5.5.8.jar"/>
+	<classpathentry kind="lib" path="D:/YOU/수업/소프트웨어공학론/팀프로젝트/5월버전/lib/itext-pdfa-5.5.8.jar"/>
+	<classpathentry kind="lib" path="D:/YOU/수업/소프트웨어공학론/팀프로젝트/5월버전/lib/itext-xtra-5.5.8.jar"/>
+	<classpathentry kind="lib" path="D:/YOU/수업/소프트웨어공학론/팀프로젝트/5월버전/lib/xmlworker-5.5.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
